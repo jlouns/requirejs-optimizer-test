@@ -6,6 +6,7 @@
     "backbone.localstorage": "^1.1.16",
     "dragula": "~3.5.2",
     "gulp": "^3.9.0",
+    "gulp-if": "^2.0.0",
     "gulp-requirejs-optimize": "^0.3.0",
     "jquery": "^2.1.4",
     "requirejs": "~2.1.20",
